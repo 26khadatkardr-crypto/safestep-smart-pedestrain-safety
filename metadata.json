@@ -1,0 +1,6 @@
+{
+  "name": "SafeStep — Smart Pedestrian Safety System",
+  "description": "Detect Early. Alert Instantly. Cross Safely. Smart pedestrian-safety prototype connecting drivers and pedestrians with real-time conflict prediction and accessible navigation.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
